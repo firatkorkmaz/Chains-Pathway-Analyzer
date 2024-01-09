@@ -59,13 +59,15 @@ The Shortest Pathways from 1 to 1 Through 4:
 
 ```
 
-There are 2 files in this project, the first file can be considered as a preparation program before the main program, and the second file is the main program.
+There are 2 program files in this project, the first file can be considered as a preparation program before the main program, and the second file is the main program.
+
 1. **1_Add_Pairs_to_Vector_of_Vectors.cpp**: Shows adding unique Pair type of data to vector of vectors in groups.
 2. **2_Chains_Pathway_Analyzer.cpp**: The main program.
+
+Along with the given input example in **test0.txt** file, there are also 7 additional input files given in this project with **test#.txt** filenames to test the program.
 
 ## Setup & Run
 Compile the files with a C++ compiler and run the executable/output files:
 ```
 g++ filename.cpp
 ```
-Along with this input example in **test0.txt** file, there are 7 additional input files given in this project with **test#.txt** filenames to test the program.
